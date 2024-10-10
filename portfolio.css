@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image {
+    height: 70px;
+    width: 115px;
+}
+
+.font {
+    color: #ffffff;
+}
+
+.bg-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-mj {
+    height: 370px;
+    width: 320px;
+    border-radius: 50%;
+    background: transparent;
+}
+
+.mjname {
+    font-weight: 800;
+}
+
+.design {
+    font-weight: 700;
+    color: red;
+    text-shadow: 5px 5px 16px;
+}
+
+.container1 {
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button {
+    height: 50px;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: #080808;
+    margin: 8px;
+    font-weight: 700;
+    padding: 5px;
+    background: transparent;
+    color: #080808;
+
+}
+
+.button:hover {
+    background-color: #fab507;
+    color: white;
+    letter-spacing: 0.10em;
+    transition: 0.5s;
+    border: 2px solid;
+    border-color: white;
+}
+
+.container2 {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+
+.p {
+    font-weight: 600;
+}
+
+.skilltag {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+.skilltag1 {
+    height: 100px;
+    width: 150px;
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: underline;
+    font-weight: 700;
+    text-shadow: 5px 5px 10px;
+    color: #16b807;
+}
+
+.prj {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.prj:hover {
+    height: 225px;
+    width: 225px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: -5px -5px 20px 8px #050504;
+    border: 2px solid;
+    border-color: #ffffff;
+    transition: 0.5s;
+}
+
+.p2 {
+    font-size: 20px;
+    font-family: Sans-Serif;
+    font-weight: 600;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.align {
+    display: flex;
+    align-items: center;
+}
+
+.contact {
+    height: 60px;
+    width: 70px;
+    text-align: center;
+}
+
+.p3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.p4 {
+    font-size: 12px;
+    font-family: Sans-Serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p4:hover {
+    font-size: 14px;
+    font-family: Sans-Serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact1 {
+    height: 46px;
+    width: 70px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.contact2 {
+    height: 60px;
+    width: 60px;
+    text-align: center;
+}
+
+.contact3 {
+    height: 80px;
+    width: 80px;
+    text-align: center;
+}
+
+.upper {
+    color: #3674f7;
+}
+
+.card {
+    height: 450px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.card:hover {
+    box-shadow: 2px 2px 15px 2px;
+}
+
+.new-align {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
